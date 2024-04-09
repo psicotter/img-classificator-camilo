@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/img-classificator-camilo/static/css/main.e7558fee.css",
+    "main.js": "/img-classificator-camilo/static/js/main.79d90ab9.js",
+    "static/js/453.0680d84a.chunk.js": "/img-classificator-camilo/static/js/453.0680d84a.chunk.js",
+    "index.html": "/img-classificator-camilo/index.html",
+    "main.e7558fee.css.map": "/img-classificator-camilo/static/css/main.e7558fee.css.map",
+    "main.79d90ab9.js.map": "/img-classificator-camilo/static/js/main.79d90ab9.js.map",
+    "453.0680d84a.chunk.js.map": "/img-classificator-camilo/static/js/453.0680d84a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7558fee.css",
+    "static/js/main.79d90ab9.js"
+  ]
+}
